@@ -9,10 +9,6 @@
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-0.17.0-ff69b4.svg)
 ![httpx](https://img.shields.io/badge/httpx-0.23.0-1EBEA5.svg)
 
- 
-## Описание проекта
-
-Этот проект является тестовым заданием. 
 
 ### Часть 1. 
 
